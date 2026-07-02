@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Tue Jun 16 14:56:53 2026
+# Process ID         : 28468
+# Current directory  : C:/Users/AARDRA SV/fpga/fpga.runs/impl_1
+# Command line       : vivado.exe -log comp.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source comp.tcl -notrace
+# Log file           : C:/Users/AARDRA SV/fpga/fpga.runs/impl_1/comp.vdi
+# Journal file       : C:/Users/AARDRA SV/fpga/fpga.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-BT6UGBQ
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16852 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 21952 MB
+# Available Virtual  : 8212 MB
+#-----------------------------------------------------------
+source comp.tcl -notrace
